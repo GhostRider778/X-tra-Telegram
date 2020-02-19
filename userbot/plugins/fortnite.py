@@ -1,5 +1,3 @@
-Aditya  ✔️:
-Aditya  ✔️:
 """Emoji
 Available Commands:
 .emoji shrug
